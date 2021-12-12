@@ -1,0 +1,9 @@
+PUT http://localhost:3003/api/blogs/61b34d6d8b6ee65e3de1e089
+content-type: application/json
+
+{
+    "title":"UUSI TITLE",
+    "author":"Me",
+    "url":"test.blog.org",
+    "likes": 10000000
+}
